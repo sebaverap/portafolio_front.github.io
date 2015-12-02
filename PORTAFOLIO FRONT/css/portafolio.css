@@ -1,0 +1,119 @@
+
+header{
+	width: 100%;
+	background-color: #211A26;
+	height: 150px;
+	margin-bottom: 0px;
+}
+
+
+.logo{
+	width: 100%;
+	padding-bottom: 10px;
+	padding-left: 100px;
+	height: auto;
+}
+
+.menu_botones{
+	font-size: 15px;
+	display: inline-block;
+	position: absolute;
+	right: 0px;
+	top: 15px;
+	padding-right: 70px;
+	display: inline-block;
+}
+.menu_botones li
+{
+	display: inline-block;
+	padding-top: 50px;
+}
+.menu_botones li a{
+	color: white;
+	padding: 10px;
+	padding-top: 10px;
+}
+.menu_botones li a:hover{
+	background-color: #6E7B9F;
+	padding-top: 100px;
+}
+.cuadro_busqueda
+{
+	/*padding-left: 700px; 
+	padding-top: 30px;
+	padding-right: 50%;*/
+	width: 100%;
+	margin-top: -10px;
+	text-align: center;
+	padding-bottom: -20px;
+	background-color: #FFC430;
+	float: right;
+}
+.formulario
+{
+	width:40%;
+	height: 50px;
+	top: -12px;
+	position: relative;
+	border-radius: 10px;
+}
+
+.boton-form{
+	width: 100px;
+	top: -12px;
+	background-color: #211A26;
+	color: white;
+	border: 0 auto;
+	border-radius: 10px;
+	position: relative;
+	padding: 10px;
+}
+h2{
+	text-align: center;
+	background-color: #FFC430;
+	margin: 0px;
+	padding-top: 0px;
+
+}
+.servicios{
+	width: 100%;
+	padding-top: -100px;
+	text-align: center;
+	display: inline-block;
+	background-color: #FFC430;
+}
+.servicios,span, p {
+	color:  #1A1714;
+	padding-top: 20px;
+}
+
+i{
+	padding-top: 40px;
+	padding-bottom: 15px;
+}
+
+footer{
+	padding: 50px;
+	background-color: #211A26; 
+	color: white;
+	display: inline-block;
+}
+.ion-ios-location{
+	color: white;
+	color: white;
+	padding-right: 10px;
+}
+
+.ion-ios-telephone{
+	color: white;
+	color: white;
+	padding-right: 10px;
+}
+.ion-android-mail{
+	color: white;
+	color: white;
+	padding-right: 10px;
+}
+.logo2{
+	padding top: 50px;
+}
